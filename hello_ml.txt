@@ -1,5 +1,6 @@
-This is my first GiftHub file for the Classic Machine Learning course.
+This is my first GitHub file for the Classic Machine Learning course.
 Hello from Pablo Lara
 Hello from Marlon Roberts
 Hello from Brandy Gonzales
 hello from Victor Djuma
+Hello from Derrick K. Gibbs-McGlaston
